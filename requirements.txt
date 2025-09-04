@@ -1,0 +1,4 @@
+flet==0.28.3
+peewee==3.17.6
+requests==2.32.3
+beautifulsoup4==4.12.3
